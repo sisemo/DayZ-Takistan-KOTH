@@ -1,0 +1,268 @@
+{
+    "enabled": 1,
+    "loggingLevel": 2,
+    "useLocationText": 0,
+    "useMapMarker": 1,
+    "useNotifications": 1,
+    "reduceProgressOnAbandoned": 1,
+    "reduceProgressOnDeathFromOutside": 1,
+    "requireFlagConstruction": 0,
+    "estimateLocation": 1,
+    "celebrateWin": 0,
+    "punishLoss": 0,
+    "baseCaptureTime": 900.0,
+    "maxTimeBetweenEvents": 2700.0,
+    "minTimeBetweenEvents": 1800.0,
+    "playerTimeMultiplier": 1.5,
+    "timeDespawn": 600.0,
+    "timeLimit": 0.0,
+    "timeStart": 30.0,
+    "timeSpawn": 120.0,
+    "timeZoneCooldown": 120.0,
+    "minPlayerCount": 1,
+    "maxEnemyCount": 20,
+    "minEnemyCount": 5,
+    "maxEvents": 1,
+    "minimumDeaths": 0,
+    "minimumPlayers": 1,
+    "maximumPlayers": 3,
+    "rewardCount": 1,
+    "flagClassname": "Flag_DayZ",
+    "enemies": [
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_usSoldier_normal_Woodland"
+    ],
+    "lootCrate": "Paragon_Pallet_Tan",
+    "crateLifeTime": 0,
+    "lootSets": [
+        "M82 Sniper",
+        "Under Ground Base",
+        "Base Storage",
+        "Paragon HK",
+        "Paragon MP7",
+        "Paragon PKP",
+        "Remington"
+    ],
+    "zones": [
+        {
+            "zoneName": "ChakChak",
+            "zonePosition": [
+                4451.8125,
+                346.60235595703127,
+                815.1170654296875
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        230.0850067138672,
+                        37.131343841552737,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Zarandaj",
+            "zonePosition": [
+                8660.517578125,
+                437.3523254394531,
+                3797.897216796875
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        230.0850067138672,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Al Nadaya",
+            "zonePosition": [
+                6761.29541015625,
+                337.10711669921877,
+                4869.1865234375
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        230.0850067138672,
+                        37.131343841552737,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Nur",
+            "zonePosition": [
+                2015.739990234375,
+                143.7256622314453,
+                11740.1455078125
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        230.0850067138672,
+                        37.131343841552737,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Zavarak",
+            "zonePosition": [
+                9831.1767578125,
+                116.732177734375,
+                11492.9521484375
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        230.0850067138672,
+                        37.131343841552737,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        }
+    ]
+}

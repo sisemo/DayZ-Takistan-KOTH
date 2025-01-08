@@ -1,0 +1,266 @@
+{
+    "lootSets": [
+        {
+            "name": "M82 Sniper",
+            "items": [
+                {
+                    "name": "Paragon_M82_Black",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Paragon_M82_10Rnd",
+                            "quantity": 10,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_M82_10Rnd",
+                    "quantity": 10,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_M82_10Rnd",
+                    "quantity": 10,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Remington",
+            "items": [
+                {
+                    "name": "Paragon_Remington_Tan",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Paragon_Remington_10Rnd",
+                            "quantity": 10,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "HuntingOptic",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_Remington_10Rnd",
+                    "quantity": 10,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_Remington_10Rnd",
+                    "quantity": 10,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Paragon HK",
+            "items": [
+                {
+                    "name": "Paragon_HK",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Paragon_Mag_HK_25Rnd",
+                            "quantity": 25,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Paragon_Universal_Sup_Black",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "ACOGOptic",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_Mag_HK_25Rnd",
+                    "quantity": 25,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_Mag_HK_25Rnd",
+                    "quantity": 25,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Paragon PKP",
+            "items": [
+                {
+                    "name": "Paragon_PKP",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Paragon_Mag_PKP_250Rnd",
+                            "quantity": 25,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_Mag_PKP_250Rnd",
+                    "quantity": 25,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_Mag_PKP_250Rnd",
+                    "quantity": 25,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Paragon MP7",
+            "items": [
+                {
+                    "name": "Paragon_MP7_Tan",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Paragon_Mag_MP7_30Rnd",
+                            "quantity": 30,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_Mag_MP7_30Rnd",
+                    "quantity": 30,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_Mag_PKP_250Rnd",
+                    "quantity": 30,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Under Ground Base",
+            "items": [
+                {
+                    "name": "Shovel",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "WoodenPlank",
+                    "quantity": 10,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "WoodenPlank",
+                    "quantity": 10,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "WoodenLog",
+                    "quantity": 6,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "UGB_ConcreteBlocks",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Hatchet",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Base Storage",
+            "items": [
+                {
+                    "name": "StorageBox_DGunRack_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "StorageBox_DGunRack_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "StorageBox_DGunRack_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_WaterBarrel_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "Paragon_WaterBarrel_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        }
+    ]
+}
