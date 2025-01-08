@@ -1,1 +1,1 @@
-Welcome to my repo for a working Koth config that worked fine for me on Takistan.
+Welcome to my repo for a working Koth config that worked fine for me on Takistan.  It also uses the Paragon Weapons, Paragon Storage, and Underground Base.  Edit the Takistanplus.xml with the locations on the map you would like for them to drop.
